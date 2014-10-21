@@ -7,7 +7,7 @@ framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+mode        : selfcontained
 knit        : slidify::knit2slides
 ---
 
@@ -35,7 +35,7 @@ Improve everyone's love life by providing a simple, self-contained, easy to use 
 - A quick, simple self assessment forms the basis for the assessment
 - Done in under a minute
 - Predicts a conflict score between 1 and 7, covering a span of "boring" to "disastrous"
-- User can self-assess desired level of harmony
+- User can self-select desired level of harmony
 
 We *categorically* deny the algorithm is implemented as
 
